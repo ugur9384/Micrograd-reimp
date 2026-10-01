@@ -1,2 +1,2 @@
 # Micrograd-reimp
-basically at this point most of the backpropagation is done and only thing missing is adding more activation functions
+everything in video is implemented and I am kinda working on using different kind of activation functions, I am overworking lately so I am suspicious about my retention but it has been a great experience and I will work more on this topic. Probably my next target will be implementing this in c  after finishing it in python.
